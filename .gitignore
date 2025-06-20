@@ -27,3 +27,6 @@ k8s-go-web-demo
 # OS files
 .DS_Store
 Thumbs.db
+
+# Claude-related files
+CLAUDE.md
